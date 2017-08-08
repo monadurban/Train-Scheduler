@@ -1,0 +1,63 @@
+	body {
+		background-image: url(../images/train3.jpg);
+	}
+	.jumbotron {
+		background:none;
+		text-align: center;
+		color: navy;
+		font-family: Verdana, sans-serif;
+		margin-bottom: 0px;
+		font-weight: bolder;
+	}
+
+	.container {
+		border: none;
+		padding-top: 20px;
+		padding-bottom: 5px;
+		padding-right: 30px;
+	}
+
+	.title1 {
+		font-size: 22px;
+		text-align: center;
+		margin-left: 16px;
+		background-color: aliceblue;
+		margin-right: -35px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+	.title2 {
+		font-size: 22px;
+		text-align: center;
+		margin-left: 30px;
+		background-color: aliceblue;
+		margin-right: -20px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+	h2 {
+		color: navy;
+		text-align: center;
+		font-weight: bolder;
+	}
+
+	th {
+		color: navy;
+		font-size: 20px;
+		text-align: center;
+	}
+
+	label {
+		color: navy;
+		font-size: 20px;
+	}
+
+	table {
+		background-color: aliceblue;
+	}
+
+	td {
+		font-weight: bold;
+		text-align: center;
+	}
